@@ -1,0 +1,18 @@
+[x,fs]=audioread('bass.wav');
+x = x(670000:689000,:);
+sound(x,fs);
+t=0:1/fs:(length(x)-1)/fs;
+plot(t,x);
+n=length(x)-1;
+f=0:fs/n:fs;
+wavefft=abs(fft(x));
+plot(f,wavefft);
+
+
+[x,fs]=audioread('bass.wav');
+x = x(670000:689000);
+sound(x, fs);
+
+plot(x);
+xlabel('samples');
+ylabel('Amplitude');
