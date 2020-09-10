@@ -12,9 +12,9 @@
  The results are as below:-
  
  Training results (tabulated):
- ![Optional Text](../master/Figures/t3.jpg)
+ ![Optional Text](../master/Figures/t3.JPG)
  
  Validation/test results:
- ![Optional Text](../master/Figures/t3a1.jpg)
+ ![Optional Text](../master/Figures/t3a1.JPG)
  
  
