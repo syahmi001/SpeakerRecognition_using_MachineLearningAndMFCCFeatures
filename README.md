@@ -1,5 +1,5 @@
-# SpeakerRecognition_using_DeepLearningAndMFCCFeatures
- Using Deep Learning method and MFCC features extraction to recognize a speaker through the training samples and validation.
+# SpeakerRecognition_using_MachineLearningAndMFCCFeatures
+ Using Machine Learning method and MFCC features extraction to recognize a speaker through the training samples and validation.
  
  10 speakers are selected to voice over the same sample text and 6 samples are taken from each of them.
  The sample words are "The quick brown fox jumps over the lazy dog."
