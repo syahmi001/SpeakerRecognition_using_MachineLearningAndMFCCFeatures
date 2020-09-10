@@ -11,10 +11,14 @@
  
  The results are as below:-
  
- Training results (tabulated):
+ Training results (tabulated): <br />
+ 
+ 
  ![Optional Text](../master/Figures/t3.JPG)
  
- Validation/test results:
+ Validation/test results: <br />
+ 
+ 
  ![Optional Text](../master/Figures/t3a1.JPG)
  
  
